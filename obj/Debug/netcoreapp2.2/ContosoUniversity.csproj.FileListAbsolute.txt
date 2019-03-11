@@ -34,3 +34,13 @@ C:\Users\User\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcore
 C:\Users\User\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Edit.g.cshtml.cs
 C:\Users\User\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Index.g.cshtml.cs
 C:\Users\User\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\User\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Create.g.cshtml.cs
+C:\Users\User\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Delete.g.cshtml.cs
+C:\Users\User\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Details.g.cshtml.cs
+C:\Users\User\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Edit.g.cshtml.cs
+C:\Users\User\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Index.g.cshtml.cs
+C:\Users\User\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Create.g.cshtml.cs
+C:\Users\User\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Delete.g.cshtml.cs
+C:\Users\User\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Details.g.cshtml.cs
+C:\Users\User\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Edit.g.cshtml.cs
+C:\Users\User\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Index.g.cshtml.cs
