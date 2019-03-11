@@ -49,3 +49,4 @@ C:\Users\User\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcore
 C:\Users\User\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Details.g.cshtml.cs
 C:\Users\User\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Edit.g.cshtml.cs
 C:\Users\User\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Index.g.cshtml.cs
+C:\Users\User\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Courses\UpdateCourseCredits.g.cshtml.cs
